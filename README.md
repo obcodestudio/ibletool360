@@ -1,0 +1,1 @@
+With the iBLETool360 Bluetooth-LE an exploration tool, you can explore the secrets within the exploration range of the BLE equipment, create a relationship with the BLE equipment, transmit and send data to the BLE equipment you designated for pairing. A message window lets you understand the communication status of the BLE equipment.
